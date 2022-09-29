@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Montserrat:ital,wght@0,200;1,100&family=Silkscreen&display=swap');
+.body{
+    background-color: blanchedalmond;
+    margin: 0;
+}
+.header{
+    margin: 0;
+}
+
+}
+.lei{
+    display: flex;
+    justify-content: flex-end;
+}
+.prvi{
+    display: flex;
+    justify-content: flex-start;
+}
+.pi{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.din{
+    display: flex;
+    justify-content: space-between;
+}
